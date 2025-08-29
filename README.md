@@ -1,8 +1,6 @@
 # PillRush
 Repositorio del Grupo Hardworitos
 
-
-README.md con la siguiente información:
 ▪ Miembros del equipo
  - Juan Pablo Cid
  - Sebastian Bustos
