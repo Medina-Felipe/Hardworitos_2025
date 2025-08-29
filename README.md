@@ -16,7 +16,7 @@ La problematica a trabajar se centra en las deficiencias en el acceso a la infor
 Pillrush, es una solución clara, innovadora y bien fundamentada que aborda directamente la problemática identificada. La aplicación móvil actuará como una plataforma unificada para centralizar la información de todas las farmacias en Temuco, superando las limitaciones de los mapas genéricos. Para justificar su viabilidad, utilizaremos tecnologías robustas y de código abierto como Flutter para el desarrollo multiplataforma, Mapbox para una geolocalización precisa con iconos personalizados, y Firebase para una gestión de datos escalable y en tiempo real. La información de farmacias de turno será obtenida y actualizada regularmente a través de un backend de web scraping, lo que asegura su fiabilidad.
 
 ▪ Tecnologías utilizadas
-Flutter + Dart
-MapBox
-Firebase
-Node.js + Express.js
+ - Flutter + Dart
+ - MapBox
+ - Firebase
+ - Node.js + Express.js
