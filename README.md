@@ -20,3 +20,4 @@ Pillrush, es una solución clara, innovadora y bien fundamentada que aborda dire
  - MapBox
  - Firebase
  - Node.js + Express.js
+ - TypeScript
